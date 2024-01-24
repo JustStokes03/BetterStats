@@ -1,1 +1,1 @@
-### This project is an attempt at making a mod for the video game "Rounds" that will show detailed character stats
+## This project is an attempt at making a mod for the video game "Rounds" that will show detailed character stats
